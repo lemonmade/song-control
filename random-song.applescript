@@ -1,0 +1,1 @@
+tell application "iTunes"	set theMusic to user playlist "Music"	set randomTrack to random number from 1 to count of tracks of theMusic	play track randomTrack of theMusicend tell
