@@ -30,4 +30,4 @@ The workflow responds to a number of different commands, each of which is detail
 [PXLDOT]:http://pxldot.com
 [ALFRED]:http://www.alfredapp.com/
 [POWERPACK]:http://www.alfredapp.com/powerpack/
-[DOWNLOAD]:
+[DOWNLOAD]:http://d.pr/f/q0kg
